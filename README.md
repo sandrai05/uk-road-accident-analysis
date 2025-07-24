@@ -87,3 +87,6 @@ The map pinpoints accident locations across the UK
 - Excel (for initial data cleaning)
 
 
+---
+
+**Created by Sandra Igboanugo | https://www.linkedin.com/in/sandraigboanugo/**
